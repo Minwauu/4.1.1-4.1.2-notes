@@ -1,6 +1,5 @@
-# 4.1.1-4.1.2-notes
-## Abstraction and automation
-### Problem solving
+# Abstraction and automation
+### 4.1.1 - Problem solving
 
 *Propositon*
 - Proposition = statement which can be either **true** or **false**
@@ -28,3 +27,17 @@ Major proposition: If it is snowing then it is cold
 Minor proposition: It is snowing
 
 Conclusion: Therefore, it is cold
+
+## **FINISH LATER**
+
+### 4.1.2  Following and writing algorithms
+
+An algorithm is a precise description of steps necessary to accomplish a certain task or solve a particular problem
+
+Example:
+
+Process - Knitting a cardigan 
+
+Algorithm - Knitting patern
+
+Example steps - 1st row: Pearl9, Knit2...
